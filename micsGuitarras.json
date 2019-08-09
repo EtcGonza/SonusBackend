@@ -1,0 +1,208 @@
+[{
+        "modelo": "Guitarra",
+        "id": "1",
+        "nombreClasificacion": "7 - 8 Cuerdas",
+        "microfonos": [{
+            "nombre": "Humbucker 7 Blacked SET",
+            "posiciones": ["Bridge",
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }, {
+            "nombre": "Humbucker 8 Blacked - NECK",
+            "posiciones": ["Bridge",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }]
+    },
+    {
+        "modelo": "Guitarra",
+        "id": "2",
+        "nombreClasificacion": "Customizados",
+        "microfonos": [{
+            "nombre": "Humbucker 6 Cuerdas SET - Multi",
+            "posiciones": ["Bridge",
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }]
+    },
+    {
+        "modelo": "Guitarra",
+        "id": "3",
+        "nombreClasificacion": "Humbucker",
+        "microfonos": [{
+            "nombre": "PAF Custom Set",
+            "posiciones": ["Bridge",
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }, {
+            "nombre": "PAF Custom - Bridge",
+            "posiciones": [
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }]
+    },
+    {
+        "modelo": "Guitarra",
+        "id": "4",
+
+        "nombreClasificacion": "P90 / P94",
+        "microfonos": [{
+            "nombre": "P90 Alnico",
+            "posiciones": ["Bridge",
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }, {
+            "nombre": "P94 Alnico / Humbucker Size",
+            "posiciones": [
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }]
+    },
+    {
+        "modelo": "Guitarra",
+        "id": "5",
+        "nombreClasificacion": "Stratocaster",
+        "microfonos": [{
+            "nombre": "Strat Class - Set",
+            "posiciones": ["Bridge",
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }, {
+            "nombre": "Strat Class - Bridge / Mid / Neck",
+            "posiciones": [
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }]
+    },
+    {
+        "modelo": "Guitarra",
+        "id": "6",
+
+        "nombreClasificacion": "Telecaster",
+        "microfonos": [{
+            "nombre": "Tele 'Raffo Signature' Set",
+            "posiciones": ["Bridge",
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }, {
+            "nombre": "Tele Hot - Set",
+            "posiciones": [
+                "Mid",
+                "Neck"
+            ],
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+            "urlSonidos": [
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
+                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            ],
+            "urlImagenes": [
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+            ]
+        }]
+    }
+]
