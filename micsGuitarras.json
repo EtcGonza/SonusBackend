@@ -1,15 +1,16 @@
 [{
-        "modelo": "Guitarra",
+        "tipo": "Guitarra",
         "id": "1",
         "nombreClasificacion": "7 - 8 Cuerdas",
         "microfonos": [{
             "nombre": "Humbucker 7 Blacked SET",
+            "nombreClasificacion": "7 - 8 Cuerdas",
+            "tipo": "Guitarra",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
             ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
             "urlSonidos": [
                 "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
                 "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
@@ -36,11 +37,13 @@
         }]
     },
     {
-        "modelo": "Guitarra",
+        "tipo": "Guitarra",
         "id": "2",
         "nombreClasificacion": "Customizados",
         "microfonos": [{
             "nombre": "Humbucker 6 Cuerdas SET - Multi",
+            "nombreClasificacion": "Customizados",
+            "tipo": "Guitarra",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
@@ -58,11 +61,13 @@
         }]
     },
     {
-        "modelo": "Guitarra",
+        "tipo": "Guitarra",
         "id": "3",
         "nombreClasificacion": "Humbucker",
         "microfonos": [{
             "nombre": "PAF Custom Set",
+            "nombreClasificacion": "Humbucker",
+            "tipo": "Guitarra",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
@@ -78,6 +83,8 @@
             ]
         }, {
             "nombre": "PAF Custom - Bridge",
+            "nombreClasificacion": "Humbucker",
+            "tipo": "Guitarra",
             "posiciones": [
                 "Mid",
                 "Neck"
@@ -94,12 +101,14 @@
         }]
     },
     {
-        "modelo": "Guitarra",
+        "tipo": "Guitarra",
         "id": "4",
 
         "nombreClasificacion": "P90 / P94",
         "microfonos": [{
             "nombre": "P90 Alnico",
+            "nombreClasificacion": "P90 / P94",
+            "tipo": "Guitarra",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
@@ -115,6 +124,8 @@
             ]
         }, {
             "nombre": "P94 Alnico / Humbucker Size",
+            "nombreClasificacion": "P90 / P94",
+            "tipo": "Guitarra",
             "posiciones": [
                 "Mid",
                 "Neck"
@@ -131,11 +142,13 @@
         }]
     },
     {
-        "modelo": "Guitarra",
+        "tipo": "Guitarra",
         "id": "5",
         "nombreClasificacion": "Stratocaster",
         "microfonos": [{
             "nombre": "Strat Class - Set",
+            "nombreClasificacion": "Stratocaster",
+            "tipo": "Guitarra",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
@@ -152,6 +165,8 @@
             ]
         }, {
             "nombre": "Strat Class - Bridge / Mid / Neck",
+            "nombreClasificacion": "Stratocaster",
+            "tipo": "Guitarra",
             "posiciones": [
                 "Mid",
                 "Neck"
@@ -169,12 +184,14 @@
         }]
     },
     {
-        "modelo": "Guitarra",
+        "tipo": "Guitarra",
         "id": "6",
 
         "nombreClasificacion": "Telecaster",
         "microfonos": [{
             "nombre": "Tele 'Raffo Signature' Set",
+            "nombreClasificacion": "Telecaster",
+            "tipo": "Guitarra",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
@@ -190,6 +207,8 @@
             ]
         }, {
             "nombre": "Tele Hot - Set",
+            "nombreClasificacion": "Telecaster",
+            "tipo": "Guitarra",
             "posiciones": [
                 "Mid",
                 "Neck"
