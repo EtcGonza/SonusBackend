@@ -1,11 +1,11 @@
 [{
-        "tipo": "Bajo",
+        "tipo": "Bajos",
         "id": "1",
         "nombreClasificacion": "Bass Humbucker",
         "microfonos": [{
             "nombre": "Humbucker Bass Set",
             "nombreClasificacion": "Bass Humbucker",
-            "tipo": "Bajo",
+            "tipo": "Bajos",
             "posiciones": ["Bridge",
                 "Mid",
                 "Neck"
@@ -22,13 +22,13 @@
         }]
     },
     {
-        "tipo": "Bajo",
+        "tipo": "Bajos",
         "id": "2",
         "nombreClasificacion": "Jazz Bass",
         "microfonos": [{
                 "nombre": "Jazz Bass Classic - Neck",
                 "nombreClasificacion": "Jazz Bass",
-                "tipo": "Bajo",
+                "tipo": "Bajos",
                 "posiciones": ["Bridge",
                     "Mid",
                     "Neck"
@@ -45,7 +45,7 @@
             {
                 "nombre": "Jazz Bass Plus - Bridge",
                 "nombreClasificacion": "Jazz Bass",
-                "tipo": "Bajo",
+                "tipo": "Bajos",
                 "posiciones": ["Mid",
                     "Neck"
                 ],
@@ -61,13 +61,13 @@
         ]
     },
     {
-        "tipo": "Bajo",
+        "tipo": "Bajos",
         "id": "3",
         "nombreClasificacion": "Presicion Bass",
         "microfonos": [{
                 "nombre": "Presicion Bass",
                 "nombreClasificacion": "Jazz Bass",
-                "tipo": "Bajo",
+                "tipo": "Bajos",
                 "posiciones": ["Bridge",
                     "Mid",
                     "Neck"
@@ -84,7 +84,7 @@
             {
                 "nombre": "Precision Bass Ceramic",
                 "nombreClasificacion": "Jazz Bass",
-                "tipo": "Bajo",
+                "tipo": "Bajos",
                 "posiciones": ["Mid",
                     "Neck"
                 ],
