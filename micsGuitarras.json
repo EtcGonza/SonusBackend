@@ -7,13 +7,20 @@
             "nombreClasificacion": "7 - 8 Cuerdas",
             "tipo": "Guitarras",
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
-            ],
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
@@ -21,15 +28,23 @@
             ]
         }, {
             "nombre": "Humbucker 8 Blacked - NECK",
-            "posiciones": ["Bridge",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
 
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -44,16 +59,23 @@
             "nombre": "Humbucker 6 Cuerdas SET - Multi",
             "nombreClasificacion": "Customizados",
             "tipo": "Guitarras",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
 
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -68,15 +90,23 @@
             "nombre": "PAF Custom Set",
             "nombreClasificacion": "Humbucker",
             "tipo": "Guitarras",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -86,14 +116,22 @@
             "nombreClasificacion": "Humbucker",
             "tipo": "Guitarras",
             "posiciones": [
-                "Mid",
-                "Neck"
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -109,15 +147,23 @@
             "nombre": "P90 Alnico",
             "nombreClasificacion": "P90 / P94",
             "tipo": "Guitarras",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -127,14 +173,22 @@
             "nombreClasificacion": "P90 / P94",
             "tipo": "Guitarras",
             "posiciones": [
-                "Mid",
-                "Neck"
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -149,16 +203,23 @@
             "nombre": "Strat Class - Set",
             "nombreClasificacion": "Stratocaster",
             "tipo": "Guitarras",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
 
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -168,15 +229,22 @@
             "nombreClasificacion": "Stratocaster",
             "tipo": "Guitarras",
             "posiciones": [
-                "Mid",
-                "Neck"
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
 
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -192,15 +260,23 @@
             "nombre": "Tele 'Raffo Signature' Set",
             "nombreClasificacion": "Telecaster",
             "tipo": "Guitarras",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
@@ -210,14 +286,22 @@
             "nombreClasificacion": "Telecaster",
             "tipo": "Guitarras",
             "posiciones": [
-                "Mid",
-                "Neck"
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"

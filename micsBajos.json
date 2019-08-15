@@ -6,15 +6,23 @@
             "nombre": "Humbucker Bass Set",
             "nombreClasificacion": "Bass Humbucker",
             "tipo": "Bajos",
-            "posiciones": ["Bridge",
-                "Mid",
-                "Neck"
+            "posiciones": [
+
+                {
+                    "Posicion": "Neck",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Mid",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                },
+                {
+                    "Posicion": "Bridge",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                }
             ],
             "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "urlSonidos": [
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-            ],
+
             "urlImagenes": [
                 "asdasdasd"
             ]
@@ -29,15 +37,23 @@
                 "nombre": "Jazz Bass Classic - Neck",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": ["Bridge",
-                    "Mid",
-                    "Neck"
+                "posiciones": [
+
+                    {
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    }
                 ],
                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-                "urlSonidos": [
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-                ],
+
                 "urlImagenes": [
                     "asdasdasd"
                 ]
@@ -46,14 +62,23 @@
                 "nombre": "Jazz Bass Plus - Bridge",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": ["Mid",
-                    "Neck"
+                "posiciones": [
+
+                    {
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    }
                 ],
                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-                "urlSonidos": [
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-                ],
+
                 "urlImagenes": [
                     "asdasdasd"
                 ]
@@ -68,15 +93,22 @@
                 "nombre": "Presicion Bass",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": ["Bridge",
-                    "Mid",
-                    "Neck"
+                "posiciones": [
+
+                    {
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    }
                 ],
                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-                "urlSonidos": [
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-                ],
                 "urlImagenes": [
                     "asdasdasd"
                 ]
@@ -85,14 +117,23 @@
                 "nombre": "Precision Bass Ceramic",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": ["Mid",
-                    "Neck"
+                "posiciones": [
+
+                    {
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    }
                 ],
                 "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-                "urlSonidos": [
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck",
-                    "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
-                ],
+
                 "urlImagenes": [
                     "asdasdasd"
                 ]
