@@ -1,5 +1,222 @@
 [{
         "tipo": "Guitarras",
+        "id": "1",
+        "nombreClasificacion": "7 - 8 Cuerdas",
+        "microfonos": [{
+                "nombre": "Humbucker 7 Blacked SET (Falta audios, arreglar texto)",
+                "nombreClasificacion": "7 - 8 Cuerdas",
+                "tipo": "Guitarras",
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 8 Blacked - SET (Falta audios, arreglar texto)",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
+    },
+    {
+        "tipo": "Guitarras",
+        "id": "2",
+        "nombreClasificacion": "Customizados",
+        "microfonos": [{
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Red Humbucker 7 Cuerdas - SET (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 7 Cuerdas Clear Red - SET (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
+    },
+    {
+        "tipo": "Guitarras",
         "id": "3",
         "nombreClasificacion": "Humbucker",
         "microfonos": [{
