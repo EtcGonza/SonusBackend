@@ -1,14 +1,12 @@
 [{
         "tipo": "Bajos",
         "id": "1",
-        "nombreClasificacion": "Bass Humbucker",
+        "nombreClasificacion": "Humbucker bass",
         "microfonos": [{
-            "nombre": "Humbucker Bass Set",
-            "nombreClasificacion": "Bass Humbucker",
+            "nombre": "Humbucker Bass Set (Sin Audios)",
+            "nombreClasificacion": "Humbucker bass",
             "tipo": "Bajos",
-            "posiciones": [
-
-                {
+            "posiciones": [{
                     "Posicion": "Neck",
                     "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
                 },
@@ -21,12 +19,10 @@
                     "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
                 }
             ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
+            "descripcion": "Diseño basado en los clásicos micrófonos doble bobina, estos toman vibraciones de las cuerdas en 2 sectores distintos permitiendo reproducir frecuencias y armónicos claros y definidos. Construido con Iman Cerámico este modelo de alta ganancia reproduce graves profundos y envolventes. Al tener disponible los 4 conectores permite variedad de conexiones  como eliminar al maximo ruidos indeseados (hum cancelling) u otra opción “splitear” dejando activa una de sus bobinas para un sonido “clasico”",
             "urlImagenes": [
                 "asdasdasd"
             ]
-
         }]
     },
     {
@@ -34,51 +30,111 @@
         "id": "2",
         "nombreClasificacion": "Jazz Bass",
         "microfonos": [{
-                "nombre": "Jazz Bass Classic - Neck",
+                "nombre": "Jazz Bass Classic - Set",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": [
-
-                    {
-                        "Posicion": "Neck",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                "posiciones": [{
+                        "Posicion": "Mastil",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-bass-mastil"
                     },
                     {
-                        "Posicion": "Mid",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                        "Posicion": "Puente y Mastil",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-bass-puente-mastil"
                     },
                     {
-                        "Posicion": "Bridge",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                        "Posicion": "Puente",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-bass-puente"
                     }
                 ],
-                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
+                "descripcion": "Micrófono de simple bobina con un par de polos de iman alnico 5 por cuerda, compensados en su bobinado para reproducir el sonido clasico de jazz bass estilo Fender reproduciendo graves/medios sin perder el brillo en las primeras cuerdas..",
                 "urlImagenes": [
                     "asdasdasd"
                 ]
             },
             {
-                "nombre": "Jazz Bass Plus - Bridge",
+                "nombre": "Jazz Bass Plus - Set",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": [
-
-                    {
-                        "Posicion": "Neck",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                "posiciones": [{
+                        "Posicion": "Sonido 1",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-2"
                     },
                     {
-                        "Posicion": "Mid",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                        "Posicion": "Sonido 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-3"
                     },
                     {
-                        "Posicion": "Bridge",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                        "Posicion": "Sonido 3",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-5"
                     }
                 ],
-                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
+                "descripcion": "Micrófono Jazz Bass extra bobinado para lograr un 'extra' de graves/medios, gracias a su  par de imanes colocados debajo de cada cuerda logra captar todo movimiento reproduciendo asi nitidez y claridad.",
+                "urlImagenes": [
+                    "asdasdasd"
+                ]
+            },
+            {
+                "nombre": "Jazz Bass STACK - Set (Hum-cancelling)",
+                "nombreClasificacion": "Jazz Bass",
+                "tipo": "Bajos",
+                "posiciones": [{
+                        "Posicion": "Mastil",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-dobles-1"
+                    },
+                    {
+                        "Posicion": "Puente y Mastil",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-dobles-3"
+                    },
+                    {
+                        "Posicion": "Puente",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-5"
+                    }
+                ],
+                "descripcion": "Set de micrófono con 2 bobinas superpuestas tipo stack con sistema de cancelación de zumbido (hum-cancelling ) construido estilo Fender con un par de polos de iman alnico 5 por cuerda, permiten tener graves limpios y profundos, mayor espectro de frecuencias, tonos medios moderados y sin perder agudos, tambien con gran ataque y rapida respuesta al 'pick'.",
+                "urlImagenes": [
+                    "asdasdasd"
+                ]
+            },
+            {
+                "nombre": "Jazz Bass 5 Cuerdas - Set",
+                "nombreClasificacion": "Jazz Bass",
+                "tipo": "Bajos",
+                "posiciones": [{
+                        "Posicion": "Sonido 1",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-1"
+                    },
+                    {
+                        "Posicion": "Sonido 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-3"
+                    },
+                    {
+                        "Posicion": "Sonido 3",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-simple-5"
+                    }
+                ],
+                "descripcion": "Micrófono Jazz Bass extra bobinado para lograr un 'extra' de graves/medios, gracias a su  par de imanes colocados debajo de cada cuerda logra captar todo movimiento reproduciendo asi nitidez y claridad.",
+                "urlImagenes": [
+                    "asdasdasd"
+                ]
+            },
+            {
+                "nombre": "Jazz Bass Stack 5 Cuerdas - Set",
+                "nombreClasificacion": "Jazz Bass",
+                "tipo": "Bajos",
+                "posiciones": [{
+                        "Posicion": "Sonido 1",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-dobles-3"
+                    },
+                    {
+                        "Posicion": "Sonido 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-dobles-4"
+                    },
+                    {
+                        "Posicion": "Sonido 3",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/bass-dobles-5"
+                    }
+                ],
+                "descripcion": "Set de micrófono con 2 bobinas superpuestas tipo stack con sistema de cancelación de zumbido (hum-cancelling ) construido estilo Fender con un par de polos de iman alnico 5 por cuerda, permiten tener graves limpios y profundos, mayor espectro de frecuencias, tonos medios moderados y sin perder agudos, tambien con gran ataque y rapida respuesta al 'pick'.",
                 "urlImagenes": [
                     "asdasdasd"
                 ]
@@ -90,12 +146,10 @@
         "id": "3",
         "nombreClasificacion": "Presicion Bass",
         "microfonos": [{
-                "nombre": "Presicion Bass",
+                "nombre": "Precision Bass Alnico (Faltan Audios)",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": [
-
-                    {
+                "posiciones": [{
                         "Posicion": "Neck",
                         "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
                     },
@@ -108,7 +162,7 @@
                         "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
                     }
                 ],
-                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "descripcion": "Micrófono basado en el clásico Custom Shop 62 de Fender con una leve modificación permitiendo graves y medios enriquecidos sin perder definición haciendo de este modelo versátil. Gracias a su particular diseño posee menor nivel de ruido.",
                 "urlImagenes": [
                     "asdasdasd"
                 ]
@@ -117,23 +171,16 @@
                 "nombre": "Precision Bass Ceramic",
                 "nombreClasificacion": "Jazz Bass",
                 "tipo": "Bajos",
-                "posiciones": [
-
-                    {
-                        "Posicion": "Neck",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                "posiciones": [{
+                        "Posicion": "Sonido 1",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/facu-p-bass-ceramic-p"
                     },
                     {
-                        "Posicion": "Mid",
+                        "Posicion": "Sonido 2",
                         "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                    },
-                    {
-                        "Posicion": "Bridge",
-                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
                     }
                 ],
-                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
+                "descripcion": "Este modelo aporta ganancia y carácter a tu P.Bass, ideal para lograr un tono enriquecido en frecuencias medias/graves, indiscutible 'punch' y un audio solido que se destacará en potencia. Gracias a su particular diseño posee menor nivel de ruido.",
                 "urlImagenes": [
                     "asdasdasd"
                 ]

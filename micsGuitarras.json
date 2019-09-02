@@ -3,305 +3,570 @@
         "id": "1",
         "nombreClasificacion": "7 - 8 Cuerdas",
         "microfonos": [{
-            "nombre": "Humbucker 7 Blacked SET",
-            "nombreClasificacion": "7 - 8 Cuerdas",
-            "tipo": "Guitarras",
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }, {
-            "nombre": "Humbucker 8 Blacked - NECK",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }]
+                "nombre": "Humbucker 7 Blacked SET (Falta audios, arreglar texto)",
+                "nombreClasificacion": "7 - 8 Cuerdas",
+                "tipo": "Guitarras",
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 8 Blacked - SET (Falta audios, arreglar texto)",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
     },
     {
         "tipo": "Guitarras",
         "id": "2",
         "nombreClasificacion": "Customizados",
         "microfonos": [{
-            "nombre": "Humbucker 6 Cuerdas SET - Multi",
-            "nombreClasificacion": "Customizados",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }]
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Red Humbucker 7 Cuerdas - SET (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 7 Cuerdas Clear Red - SET (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker 6 Cuerdas SET - Multi (Falta audios y arreglar texto)",
+                "nombreClasificacion": "Customizados",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
     },
     {
         "tipo": "Guitarras",
         "id": "3",
         "nombreClasificacion": "Humbucker",
         "microfonos": [{
-            "nombre": "PAF Custom Set",
-            "nombreClasificacion": "Humbucker",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }, {
-            "nombre": "PAF Custom - Bridge",
-            "nombreClasificacion": "Humbucker",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }]
+                "nombre": "PAF Custom Set",
+                "nombreClasificacion": "Humbucker",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Drive Test",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-paf-custom-set-drive-test"
+                    },
+                    {
+                        "Posicion": "Clean Test",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-paf-custom-set-clean-test"
+                    },
+                    {
+                        "Posicion": "Neck + Mid Drive",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-neck-mid-drive-p"
+                    },
+                    {
+                        "Posicion": "Neck Clean",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-neck-clean-x2"
+                    },
+                    {
+                        "Posicion": "Yeite Bridge + Mid + Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-yeite-3-mics"
+                    },
+                    {
+                        "Posicion": "Bridge Clean",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-clean-x3"
+                    },
+                    {
+                        "Posicion": "Bridge Drive",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+                    }
+                ],
+                "descripcion": "Clásico e indiscutible modelo doble bobina fabricado con imanes Alnico 2, ideal para sonidos cálidos y saturados, versatilidad total aportando claridad y transparencia a todas sus notas, gracias a su salida baja/media da participación a las maderas seleccionadas del instrumento logrando en conjunto identidad al audio final.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Les Paul Hot - Set",
+                "nombreClasificacion": "Humbucker",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/funky-doble-alnico-5-neck-1"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/clean-doble-bobina-alnico-5-1"
+                    },
+                    {
+                        "Posicion": "Neck 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-power-doble-alnico-5-1"
+                    },
+                    {
+                        "Posicion": "Bridge 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/funky-doble-alnico-5-bridge"
+                    }
+                ],
+                "descripcion": "Modelo construido para mantener el espíritu de los micrófonos doble bobina en su formato mas 'hot' , agracias a su imán en barra Alnico 5 encontramos clásicos tonos del rock y blues.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Humbucker Blacked High Gain - Set",
+                "nombreClasificacion": "Humbucker",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/swing-doble-bobina-cer-mico-1"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-power-doble-cer-mico"
+                    },
+                    {
+                        "Posicion": "Neck 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-power-doble-cer-mico-2"
+                    }
+                ],
+                "descripcion": "Este modelo nos ofrece mayor nivel de salida, destecados armonicos, graves envolventes, mayor sustain sin perder claridad. Recomendado para estilos como Punk, Rock, Heavy, Metal, Swing y Jazz entre otros.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
     },
     {
         "tipo": "Guitarras",
         "id": "4",
-
         "nombreClasificacion": "P90 / P94",
         "microfonos": [{
-            "nombre": "P90 Alnico",
-            "nombreClasificacion": "P90 / P94",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }, {
-            "nombre": "P94 Alnico / Humbucker Size",
-            "nombreClasificacion": "P90 / P94",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }]
+                "nombre": "P90 Alnico Set",
+                "nombreClasificacion": "P90 / P94",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/swing-p90"
+                    },
+                    {
+                        "Posicion": "Neck (Rock)",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-p-90-neck"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-p-90-bridge"
+                    }
+                ],
+                "descripcion": "Micrófono de simple bobina en el cual podemos encontrar tonos clásicos, se caracterizan en esta pastilla medios definidos pero sin quedar atrás graves y agudos que dan un color “vintage” a las cualidades timbricas del modelo.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "P90 Alta Ganancia SET",
+                "nombreClasificacion": "P90 / P94",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Ceramico Alta Ganancia",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p90-ceramicos-high-gain"
+                    },
+                    {
+                        "Posicion": "Ceramico",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/p90-ceramicos"
+                    }
+                ],
+                "descripcion": "Micrófono de simple bobina de alta ganancia ya que posee dos barras de iman Cerámicos, compensado en su bobinado responde con mayor sustain, “punch” y frecuencias medias/altas. Recomendado para utilizar con Overdrive, Distorsion o sin efecto se logra un “clean” claro y cuerdas definidas.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "P94 Alnico",
+                "nombreClasificacion": "P90 / P94",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/swing-p90"
+                    },
+                    {
+                        "Posicion": "Neck (Rock)",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-p-90-neck"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-p-90-bridge"
+                    }
+                ],
+                "descripcion": "Micrófono de simple bobina de alta ganancia ya que posee dos barras de iman Cerámicos, compensado en su bobinado responde con mayor sustain, “punch” y frecuencias medias/altas. Recomendado para utilizar con Overdrive, Distorsion o sin efecto se logra un “clean” claro y cuerdas definidas.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
     },
     {
         "tipo": "Guitarras",
         "id": "5",
         "nombreClasificacion": "Stratocaster",
         "microfonos": [{
-            "nombre": "Strat Class - Set",
-            "nombreClasificacion": "Stratocaster",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }, {
-            "nombre": "Strat Class - Bridge / Mid / Neck",
-            "nombreClasificacion": "Stratocaster",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }]
+                "nombre": "Strat Class - Set",
+                "nombreClasificacion": "Stratocaster",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck Clean",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-strat-class-neck-clean"
+                    },
+                    {
+                        "Posicion": "Mid + Neck Clean",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-strat-class-mid-neck-clean"
+                    },
+                    {
+                        "Posicion": "Bridge Clean",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-strat-class-bridge-clean"
+                    },
+                    {
+                        "Posicion": "Bridge + Mid Clean",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/sonus-strat-class-bridge-mid-clean"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    }
+                ],
+                "descripcion": "Diseño basado en los clásicos micrófonos que definieron ese sonido cristalino y con ataque de las Fender Stratocaster, popularizadas a mediado de los 50. Modelo construido con imanes circulares alnico 5, la ubicación escalonada de los mismo permite compensar el volumen de cada cuerda enriqueciendo al tono final dando como resultado clásico sonido de la época con agudos claros y nítidos, medios compensados y graves destacados. Muy útil para géneros como Blues, Rock, Folk, gracias a su claridad y fidelidad recomendado para el uso con pedales o procesadores de señal.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "El Especial - Set",
+                "nombreClasificacion": "Stratocaster",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/single-coil-el-especial-stratocaster-neck"
+                    },
+                    {
+                        "Posicion": "Mid + Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/single-coil-el-especial-stratocaster-mid-bridge"
+                    },
+                    {
+                        "Posicion": "Mid + Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/single-coil-el-especial-stratocaster-mid-neck"
+                    },
+                    {
+                        "Posicion": "Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/single-coil-el-especial-stratocaster-mid"
+                    },
+                    {
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/single-coil-el-especial-stratocaster-bridge"
+                    }
+                ],
+                "descripcion": "Modelo basado en los míticos Texas Special, en su fabricación se destaca la compensación de bobinado en posición Bridge y Neck que provee mayor salida y cuerpo, emulando así al sonido original. Tonos mas definidos, aportando mayor cuerpo en rangos medios sin perder brillo y claridad. El micrófono Mid con polaridad invertida,  ofrece cancelación de ruido en posiciones 2 y 4 con un sonido característico stratocaster. Excelente opción para dar versatilidad y variedad de tu instrumento.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Super Bridge Set",
+                "nombreClasificacion": "Stratocaster",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-bridge-3"
+                    },
+                    {
+                        "Posicion": "Neck + Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck-mid"
+                    },
+                    {
+                        "Posicion": "Drive Neck",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-neck"
+                    },
+                    {
+                        "Posicion": "Drive Mid",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-mid"
+                    },
+                    {
+                        "Posicion": "Drive Mid + Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-mid-bridge"
+                    },
+                    {
+                        "Posicion": "Bridge 2",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-drive-bridge-1"
+                    },
+                    {
+                        "Posicion": "Clean Set de Neck a Bridge",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/super-bridge-2018-clean-set-de-neck-a-bridge"
+                    }
+                ],
+                "descripcion": "Ideal para quienes buscan un sonido 'Hot' sobre todo en posicion de puente, este modelo posee extra bobinado que aporta al tono mayor frecuencias medias/graves logrando aumentar el cuerpo eliminando sonidos 'flacos' o 'chillones', muy versatil en solos y combinado con el resto los microfonos logra mantener el audio 'Strato' sin perdida de brillo y claridad del instrumento. Construidos con imanes de alnico 5 y respetando la fabricacion orginal.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Simple Bobina Cerámico - Set",
+                "nombreClasificacion": "Stratocaster",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                        "Posicion": "Bridge Rock",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-simple-cer-mico-bridge"
+                    },
+                    {
+                        "Posicion": "Bridge Rock Power",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-power-simple-cer-mico"
+                    },
+                    {
+                        "Posicion": "Neck Rock Power",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-power-simple-cer-mico-1"
+                    },
+                    {
+                        "Posicion": "Neck Rock",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/rock-simple-cer-mico-neck"
+                    },
+                    {
+                        "Posicion": "Neck Funky",
+                        "urlSonido": "https://soundcloud.com/sonus-fx/funky-simple-cer-mico-neck"
+                    }
+                ],
+                "descripcion": "Micrófonos diseñados para tener un sonido reforzado, mayor nivel de salida, sustain y distorsion a diferencia de las pastillas de Alnico V. Modelo de fabricacion artesanal bobinados a mano, en su construccion con barra de iman ceramico y seleccion de elementos conductores que garantizan mayor calidad de sonido para tu instrumento.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            },
+            {
+                "nombre": "Simple Bobina Stack",
+                "nombreClasificacion": "Stratocaster",
+                "tipo": "Guitarras",
+                "posiciones": [{
+                    "Posicion": "Clean Doble Bobina",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/clean-doble-bobina-formato-1"
+                }],
+                "descripcion": "Fabricado con 2 bobinas superpuestas con la finalidad de reduccion de ruido,  esto permite instalara las pastillas en cavidades para microfonos de simple bobina sin necesidad de hacer modificaciones. Recomendado para estilos como Punk, Funk, Rock, Heavy u otro estilo donde se quiera lograr un sonido de alta ganancia.",
+                "urlImagenes": [
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
+                    "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
+                ]
+            }
+        ]
     },
     {
         "tipo": "Guitarras",
         "id": "6",
-
         "nombreClasificacion": "Telecaster",
         "microfonos": [{
-            "nombre": "Tele 'Raffo Signature' Set",
+            "nombre": "Tele Class Set",
             "nombreClasificacion": "Telecaster",
             "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
+            "posiciones": [{
+                    "Posicion": "Bridge Clean",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/telecaster-pickups-tele-class-bridge-clean"
                 },
                 {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
+                    "Posicion": "Bridge Drive",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/telecaster-pickups-tele-class-bridge-drive"
                 },
                 {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
+                    "Posicion": "Bridge + Neck Clean",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/telecaster-pickups-tele-class-bridge-neckclean"
+                },
+                {
+                    "Posicion": "Bridge + Neck Drive",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/telecaster-pickups-tele-class-bridge-neckdrive"
+                },
+                {
+                    "Posicion": "Neck Clean",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/telecaster-pickups-tele-class-neckclean"
+                },
+                {
+                    "Posicion": "Neck Drive",
+                    "urlSonido": "https://soundcloud.com/sonus-fx/telecaster-pickups-tele-class-neckdrive"
                 }
             ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
-            "urlImagenes": [
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
-                "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
-            ]
-        }, {
-            "nombre": "Tele Hot - Set",
-            "nombreClasificacion": "Telecaster",
-            "tipo": "Guitarras",
-            "posiciones": [
-
-                {
-                    "Posicion": "Neck",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/paf-custom-bridge-drive-x2"
-                },
-                {
-                    "Posicion": "Mid",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/p-bass-ceramico-procesado"
-                },
-                {
-                    "Posicion": "Bridge",
-                    "urlSonido": "https://soundcloud.com/sonus-fx/jb-plus-bridge-proces-ok"
-                }
-            ],
-            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis, mauris vel congue tempus, orci dui fermentum nisi, et commodo sem risus quis odio. Pellentesque ornare mattis leo vel cursus. Sed interdum leo id semper placerat. Quisque volutpat nisl sit amet sodales ultricies. Nam malesuada congue purus vel eleifend. Integer.",
-
+            "descripcion": "Complementados minuciosamente para lograr un tono abierto, versátil, clásico telecaster, nos permite adaptarse a distintos géneros y usos. Encontramos en posición Bridge un micrófono extra bobinado para 'recortar' frecuencias altas que nivelan el tono sin perder ataque, enriqueciendo los rangos medios. La posición Neck se destaca por su calidez en graves / medios, sin perder su brillo característico, ideal para rítmica pero que al combinarlo con el micrófono de puente obtenemos el clásico sonido telecaster con menor nivel de ruido.",
             "urlImagenes": [
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=787&useDensity=true&width=837&height=470.8125&tipoEscala=contain",
                 "http://www.sonusfx.com.ar/productos/obtenerimagen/?id=586&useDensity=true&width=837&height=470.8125&tipoEscala=contain"
